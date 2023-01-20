@@ -25,5 +25,14 @@ public class User {
     @JoinColumn(name = "user_id")
     @Fetch(FetchMode.SELECT)
     List<Post> posts;
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", posts=" + posts +
+                '}';
+    }
 }
 

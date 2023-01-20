@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 public class PostServiceImpl implements PostService {
     private PostRepo repo;
     private ModelMapper modelMapper;
+
     public PostServiceImpl(PostRepo repo, ModelMapper modelMapper){
         this.repo = repo;
         this.modelMapper = modelMapper;
