@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.ggg</groupId>
-	<artifactId>waarestfullab3</artifactId>
+	<artifactId>waarestfullab4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>waarestfullab2</name>
 	<description>WAA class lab</description>

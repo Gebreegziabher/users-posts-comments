@@ -1,4 +1,4 @@
-INSERT INTO users (id, name) VALUES (111, 'inan');
+INSERT INTO users (id, name) VALUES (111, 'Inan');
 INSERT INTO users (id, name) VALUES (112, 'Gebreegziabher');
 INSERT INTO users (id, name) VALUES (113, 'Abdurahman');
 
